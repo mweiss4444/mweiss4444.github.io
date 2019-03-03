@@ -1,0 +1,53 @@
+h1{
+  color: white;
+}
+body{
+  background-color: #869D96;
+}
+h2, h4, p{
+  color: #171123;
+  font-family: 'verdana';
+}
+h1{
+  font-family:'Oswald', sans-serif;
+  font-size: 40px;
+  font-weight: lighter;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+h3{
+  font-family:'Oswald', sans-serif;
+  font-size: 26px;
+  font-weight: lighter;
+  text-transform: lowercase;
+}
+p{
+  font-family: verdana;
+  font-size:14px;
+  font-weight: lighter;
+  }
+
+.quote {
+    color: white;
+    font-family: 'Playfair Display', serif;
+    font-size: 40px;
+    font-weight: lighter;
+    padding: 100px;
+    border-top: 2px solid white;
+    margin: 120px;
+  }
+.sideband {
+  color: black;
+  font-family: 'Oswald', sans-serif;
+  font-size: 14px;
+  font-weight: bolder;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  padding-top: 20px;
+  padding-bottom: 40px;
+  border-top: 3px solid black;
+  border-bottom: 1px solid black;
+  margin-left: 20px;
+  margin-right: 100px;
+  margin-top: 120px;
+}
